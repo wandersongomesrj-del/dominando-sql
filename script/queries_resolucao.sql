@@ -27,11 +27,6 @@ SELECT * FROM produtos;
 
 
 
-
-
-
-
-
 -- TAREFA 1: Selecionar todas as colunas e linhas da tabela de produtos
 SELECT * FROM produtos;
 
