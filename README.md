@@ -2,6 +2,8 @@
 
 Este repositório contém a resolução de 16 exercícios práticos de SQL focados em análise de dados de vendas e gestão de estoque de uma empresa de tecnologia.
 
+🚀 Visualize este projeto em execução: [https://colab.research.google.com/drive/1jaYcyeHfaz7kOmmljNN1lX2k3JopIiUP?usp=sharing]
+
 ## 🛠️ Tecnologias Utilizadas
 - **Banco de Dados:** SQLite
 - **Ferramenta de Query:** VS Code (Extensão SQLite)
